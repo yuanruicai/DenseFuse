@@ -7,7 +7,7 @@
 (a)Infrared image;(b)Visible image;(c)cifar-add;(d)cifar-l1_norm;(e)cifar-tno-add;(f)cifar-tno-l1_norm.
 
 彩色图像融合结果： \
-![color.png](results/color.png))\
+![color.png](results/color.png)\
 (a)Infrared image;(b)Visible image;(c)RGB-fuse;(d)HSV-fuse.
 
 客观评价：
